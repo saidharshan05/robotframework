@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation      Assignment 2 - Searching for wrist watches.
+Documentation      .... Assignment 2 - Searching for wrist watches.
 Library            SeleniumLibrary
 Suite Setup        Set Screenshot Directory    EMBED
 Suite Teardown     Close Browser
