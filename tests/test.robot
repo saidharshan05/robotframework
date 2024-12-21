@@ -51,7 +51,7 @@ Login
         Log    <h2>${text} Maybe haven't registered yet so, trying to register.</h2>    WARN    html=true   console=false
         Register To Demo OpenCart
     ELSE
-        Log    OK    ERROR
+        Log    OK    
     END
     Sleep    2
 Logged in, search and add the product and checkout
