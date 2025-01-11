@@ -42,4 +42,4 @@ Before running the tests, ensure you have the following installed:
 2. Execute the following command:
 
    ```bash
-   robot test.robot
+   robot tests/test.robot
